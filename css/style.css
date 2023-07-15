@@ -79,7 +79,7 @@ p {
 
 .single-project-tech-used {
   height: 55px;
-  width: 65%;
+  /* width: 65%; */
   /*display: flex;*/
   /*flex-direction: row;*/
   /*justify-content: space-around;*/
